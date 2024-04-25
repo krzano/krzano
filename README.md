@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Alex 👋
+
+I'm a front-end developer living in Poland. I started my coding journey in 2022, and the technologies I use the most are TypeScript💙 and React.<br/>
 
 <!--
 **krzano/krzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
